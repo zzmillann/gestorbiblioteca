@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "DAW",
+			"path": ".."
+		},
+		{
+			"name": "BIBLIOTECA",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "formularioshtml",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

@@ -1,0 +1,35 @@
+CLASE BIBLIOTECA
+.nombre
+.direccion
+.codigobilbioteca
+
+
+(puede tener muchos libros)
+
+- CLASE LIBROS
+.ISBN
+.titulo
+.editorial
+<>libros en la biblioteca
+
+comprar()
+darbaja()
+prestar()
+recibir() accion que se produce despues de prestar
+
+
+
+
+
+CLASE ALUMNOS    (puede pedir prestado un libro o varios y pued edevolver el libro)
+.dni
+.nombre
+.direccion
+<>libros ne posesion del alumno 
+
+
+librosquetiene()
+
+
+dado el codigo de la biblioteca sacarlos libros que tienen esa biblioteca
+ddo el dni del lumno ver los libros que tienre
